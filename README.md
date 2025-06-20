@@ -3,7 +3,8 @@
 Still a work in progress for the UI. A few features are incomplete.  
 Built because I got sick of Xcode simulator junk showing up in Finder.
 
-Still working on getting killing the CoreSimulatorService to work properly, but I got some schoolwork to do. Feel free to contribute if you want to help out.!!!
+Still working on getting killing the CoreSimulatorService to work properly, but I got some schoolwork to do. 
+Feel free to contribute if you want to help out.!!!
 ---
 
 ## Purpose
