@@ -1,4 +1,4 @@
-# Xcode Fuckoff
+# Xcode_Cleaner
 
 Still a work in progress for the UI. A few features are incomplete.  
 Built because I got sick of Xcode simulator junk showing up in Finder.
